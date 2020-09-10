@@ -6,3 +6,5 @@
 [Ali Makoudi](https://github.com/alimkd)
 [Youssef IDBENSALAH](https://github.com/Josephidbensalah)
 [Hamza Wakrim](https://github.com/Hamza-Wakrim)
+[Zaid_Azeroual](https://github.com/zaid0007)
+
